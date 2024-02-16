@@ -1,0 +1,13 @@
+.planets-info-container {
+    max-width: 1550px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #7a9494d0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
