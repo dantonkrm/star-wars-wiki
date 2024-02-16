@@ -1,0 +1,39 @@
+
+.people-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #7a9494d0;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+}
+
+.people-list-title {
+    text-align: center;
+    font-size: 24px;
+    color: #ffffff9a;
+    margin-bottom: 20px;
+}
+
+.people-list {
+    list-style: none;
+    padding: 0;
+}
+
+.people-list-item {
+    margin-bottom: 10px;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.home-button {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin: 20px auto 0;
+}
