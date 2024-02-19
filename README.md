@@ -8,5 +8,5 @@ React.js, Node.js e Npm, react Router para navegação, SWAPI (Star Wars API), D
 Foi utilizado do Material UI Joy: Button, input, text Field, typography, linear Progress e link. 
 
 # Instruções de Instalação:
-Fazer a clonagem do repositório com ``git clone``
+Fazer a clonagem do repositório com ``git clone``.
 Certificar-se de ter o Node.js e o npm instalados e executar o comando ``npm start`` para iniciar o servidor de desenvolvimento e abrir o aplicativo no navegador.
