@@ -9,4 +9,4 @@ Foi utilizado do Material UI Joy: Button, input, text Field, typography, linear 
 
 # Instruções de Instalação:
 Fazer a clonagem do repositório com ``git clone``.
-Certificar-se de ter o Node.js e o npm instalados e executar o comando ``npm install`` e depois ``npm start`` para iniciar o servidor de desenvolvimento e abrir o aplicativo no navegador.
+Certificar-se de ter o Node.js e o npm instalados e executar o comando ``npm install`` e depois ``npm start`` para iniciar o servidor de desenvolvimento e abrir o aplicativo no navegador. O Http deverá aparecer como "http://localhost:3000".
